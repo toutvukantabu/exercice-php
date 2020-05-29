@@ -1,0 +1,1 @@
+<p>salut <?php echo $_POST['nom'];?>!</p>
