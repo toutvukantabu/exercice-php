@@ -1,5 +1,7 @@
 <?php
   //On démarre une nouvelle session
+  setcookie('pseudo', 'Taliesen', time() + 3600, null, null, false, true); // Le cookie sera valable une heure
+setcookie('pays', 'France', time() + 365*24*3600, null, null, false, true); // Le cookie sera valable un an
    session_start();
   
   //On définit des variables de session
