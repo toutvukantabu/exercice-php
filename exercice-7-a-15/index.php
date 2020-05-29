@@ -93,6 +93,7 @@ echo "$chiffre ce chiffre n'est pas un multiple de trois ni de 5 ";
 <?php
 $age=12;
 $sexe=1;
+$sexe2=3;
 
 
 if ($sexe=1 and ($age>=18) )
