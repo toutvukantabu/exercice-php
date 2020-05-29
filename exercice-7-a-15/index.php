@@ -10,16 +10,16 @@
 <h1>exercice7 les multiples </h1>
 
 <?php
-// $resultat= 0;
-// $chiffre= 15; 
+$resultat= 0;
+$chiffre= 15; 
 
-// if ($chiffre % 5==$resultat & $chiffre % 5 ==$resultat) 
-// {
-//   echo "ce chiffre est un multiple de 3 et de 5";
-// }
-// else{
-// echo "$chiffre ce chiffre n'est pas un multiple de trois ni de 5 ";
-// }
+if ($chiffre % 5==$resultat & $chiffre % 5 ==$resultat) 
+{
+  echo "ce chiffre est un multiple de 3 et de 5";
+}
+else{
+echo "$chiffre ce chiffre n'est pas un multiple de trois ni de 5 ";
+}
 
 
 ?>
